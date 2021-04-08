@@ -6,7 +6,7 @@ import java.util.Scanner;
  * @ClassName T01_SoftReference
  * @Description modify VM args -Xms1M -Xmx10M -XX:+PrintGCDetails
  * @Author John Yuan
- * @Data 4/8/21 9:25 AM
+ * @Date 4/8/21 9:25 AM
  * @Version 1.0
  */
 
